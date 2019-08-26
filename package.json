@@ -13,27 +13,27 @@
   },
   "author": "Satyajit Sahoo <satyajit.happy@gmail.com> (https://github.com/satya164/)",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.6.0",
-    "@typescript-eslint/parser": "^1.6.0",
-    "babel-eslint": "^10.0.1",
-    "eslint-config-prettier": "^4.1.0",
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-babel": "^5.3.0",
-    "eslint-plugin-eslint-comments": "^3.1.1",
-    "eslint-plugin-flowtype": "^3.6.1",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-jest": "^22.4.1",
+    "eslint-plugin-eslint-comments": "^3.1.2",
+    "eslint-plugin-flowtype": "^4.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.15.2",
     "eslint-plugin-json": "^1.4.0",
     "eslint-plugin-markdown": "^1.0.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react": "^7.12.4",
-    "eslint-plugin-react-hooks": "^1.6.0",
-    "eslint-plugin-react-native": "^3.6.0"
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^2.0.1",
+    "eslint-plugin-react-native": "^3.7.0"
   },
   "devDependencies": {
-    "conventional-changelog-cli": "^2.0.12",
-    "eslint": "^5.16.0",
-    "prettier": "^1.16.4",
-    "release-it": "^10.4.1"
+    "conventional-changelog-cli": "^2.0.23",
+    "eslint": "^6.2.2",
+    "prettier": "^1.18.2",
+    "release-it": "^12.3.5"
   },
   "peerDependencies": {
     "eslint": "*",
